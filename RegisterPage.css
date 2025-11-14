@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aliceblue;
+}
+.register{
+    display: flex;
+    border: 2px solid ;
+    border-radius: 20px;
+    background-color: lightpink;
+    height: 500px;
+    width: 500px;
+    margin-top: 100px;
+}
+.account{
+    text-align: center;
+    padding-top: 10px;
+}
