@@ -7,7 +7,7 @@
 
 body {
   display: flex;
-  justify-content: center;
+  justify-content: left;
   align-items: center;
   min-height: 100vh;
   background: #f2f2f2;
