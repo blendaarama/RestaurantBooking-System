@@ -4,7 +4,8 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: aliceblue;
+    background-image: url(background.jpg);
+    background-position: 100%;
     margin: 0;
 }
 
@@ -12,7 +13,7 @@ body{
     position: relative;
     width: 450px;
     padding: 40px 0;
-    background: transparent;
+    background: lightyellow;
     border: 2px solid black;
     border-radius: 20px;
     display: flex;
