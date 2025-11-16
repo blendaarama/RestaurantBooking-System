@@ -40,7 +40,7 @@ body {
   border: none;
   font-size: 18px;
   padding: 18px 45px 20px 20px;
-  border-bottom: 2px solid #333; <!-- qekjo i bon qato viat posht username -->
+  border-bottom: 2px solid #333;
 }
 
 .wrapper .input-box i {
